@@ -1,0 +1,413 @@
+fileFormatVersion: 2
+guid: 5d94592a79132af44bd04bd0a332f3bf
+timeCreated: 1533899357
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: __pCube52
+    100002: _pCube49
+    100004: _pCylinder10
+    100006: abc_pendel
+    100008: abc_pendel2
+    100010: Automatic
+    100012: back_INterior
+    100014: Back_windshild
+    100016: Body
+    100018: //RootNode
+    100020: center_Mirror
+    100022: Dicy
+    100024: Door
+    100026: Engine
+    100028: Front_Left
+    100030: Front_Right
+    100032: Front_Windshild
+    100034: Fuel_Cap
+    100036: Gare
+    100038: HandBrack
+    100040: Head_Light
+    100042: Hood2
+    100044: Horn
+    100046: interior10
+    100048: interior4
+    100050: interior5
+    100052: interior5 1
+    100054: interior6
+    100056: interior8
+    100058: interior9
+    100060: Left_Door
+    100062: Left_Door 1
+    100064: Left_Mirror1
+    100066: Lhd_Interior___pCube52
+    100068: Manual
+    100070: Mesh79
+    100072: numberplate
+    100074: numberplate1
+    100076: pasted__floor
+    100078: pasted__interior11
+    100080: pasted__polySurface1076
+    100082: pasted__polySurface1077
+    100084: pasted__polySurface65
+    100086: pasted__polySurface66
+    100088: pasted__polySurface66 1
+    100090: pasted__polySurface67
+    100092: pasted__polySurface67 1
+    100094: pCube11
+    100096: pCube12
+    100098: pCube13
+    100100: pCube3
+    100102: pCube4
+    100104: pCube7
+    100106: pCube8
+    100108: pCube9
+    100110: pCylinder2
+    100112: pCylinder3
+    100114: polySurface1
+    100116: polySurface2
+    100118: polySurface3
+    100120: Rear_Left
+    100122: Rear_Right
+    100124: Right_Door
+    100126: Right_Door 1
+    100128: Right_Mirror1
+    100130: Sea1
+    100132: Sea2
+    100134: Sea3
+    100136: Sea4
+    100138: Seat
+    100140: start_Button
+    100142: Sterring_New
+    100144: Tail_Light
+    100146: Wheel
+    100148: Wind_Shild
+    100150: wiper
+    400000: __pCube52
+    400002: _pCube49
+    400004: _pCylinder10
+    400006: abc_pendel
+    400008: abc_pendel2
+    400010: Automatic
+    400012: back_INterior
+    400014: Back_windshild
+    400016: Body
+    400018: //RootNode
+    400020: center_Mirror
+    400022: Dicy
+    400024: Door
+    400026: Engine
+    400028: Front_Left
+    400030: Front_Right
+    400032: Front_Windshild
+    400034: Fuel_Cap
+    400036: Gare
+    400038: HandBrack
+    400040: Head_Light
+    400042: Hood2
+    400044: Horn
+    400046: interior10
+    400048: interior4
+    400050: interior5
+    400052: interior5 1
+    400054: interior6
+    400056: interior8
+    400058: interior9
+    400060: Left_Door
+    400062: Left_Door 1
+    400064: Left_Mirror1
+    400066: Lhd_Interior___pCube52
+    400068: Manual
+    400070: Mesh79
+    400072: numberplate
+    400074: numberplate1
+    400076: pasted__floor
+    400078: pasted__interior11
+    400080: pasted__polySurface1076
+    400082: pasted__polySurface1077
+    400084: pasted__polySurface65
+    400086: pasted__polySurface66
+    400088: pasted__polySurface66 1
+    400090: pasted__polySurface67
+    400092: pasted__polySurface67 1
+    400094: pCube11
+    400096: pCube12
+    400098: pCube13
+    400100: pCube3
+    400102: pCube4
+    400104: pCube7
+    400106: pCube8
+    400108: pCube9
+    400110: pCylinder2
+    400112: pCylinder3
+    400114: polySurface1
+    400116: polySurface2
+    400118: polySurface3
+    400120: Rear_Left
+    400122: Rear_Right
+    400124: Right_Door
+    400126: Right_Door 1
+    400128: Right_Mirror1
+    400130: Sea1
+    400132: Sea2
+    400134: Sea3
+    400136: Sea4
+    400138: Seat
+    400140: start_Button
+    400142: Sterring_New
+    400144: Tail_Light
+    400146: Wheel
+    400148: Wind_Shild
+    400150: wiper
+    2300000: __pCube52
+    2300002: _pCube49
+    2300004: _pCylinder10
+    2300006: Back_windshild
+    2300008: Body
+    2300010: center_Mirror
+    2300012: Dicy
+    2300014: Engine
+    2300016: Front_Left
+    2300018: Front_Right
+    2300020: Front_Windshild
+    2300022: Fuel_Cap
+    2300024: Gare
+    2300026: HandBrack
+    2300028: Head_Light
+    2300030: Hood2
+    2300032: Horn
+    2300034: interior10
+    2300036: interior5
+    2300038: interior5 1
+    2300040: interior6
+    2300042: interior9
+    2300044: Left_Door 1
+    2300046: Left_Mirror1
+    2300048: Lhd_Interior___pCube52
+    2300050: Mesh79
+    2300052: numberplate
+    2300054: numberplate1
+    2300056: pasted__floor
+    2300058: pasted__interior11
+    2300060: pasted__polySurface1076
+    2300062: pasted__polySurface1077
+    2300064: pasted__polySurface65
+    2300066: pasted__polySurface66
+    2300068: pasted__polySurface66 1
+    2300070: pasted__polySurface67
+    2300072: pasted__polySurface67 1
+    2300074: pCube11
+    2300076: pCube12
+    2300078: pCube13
+    2300080: pCube3
+    2300082: pCube4
+    2300084: pCube7
+    2300086: pCube8
+    2300088: pCube9
+    2300090: pCylinder2
+    2300092: pCylinder3
+    2300094: polySurface1
+    2300096: polySurface2
+    2300098: polySurface3
+    2300100: Rear_Left
+    2300102: Rear_Right
+    2300104: Right_Door 1
+    2300106: Right_Mirror1
+    2300108: Sea1
+    2300110: Sea2
+    2300112: Sea3
+    2300114: Sea4
+    2300116: start_Button
+    2300118: Sterring_New
+    2300120: Tail_Light
+    3300000: __pCube52
+    3300002: _pCube49
+    3300004: _pCylinder10
+    3300006: Back_windshild
+    3300008: Body
+    3300010: center_Mirror
+    3300012: Dicy
+    3300014: Engine
+    3300016: Front_Left
+    3300018: Front_Right
+    3300020: Front_Windshild
+    3300022: Fuel_Cap
+    3300024: Gare
+    3300026: HandBrack
+    3300028: Head_Light
+    3300030: Hood2
+    3300032: Horn
+    3300034: interior10
+    3300036: interior5
+    3300038: interior5 1
+    3300040: interior6
+    3300042: interior9
+    3300044: Left_Door 1
+    3300046: Left_Mirror1
+    3300048: Lhd_Interior___pCube52
+    3300050: Mesh79
+    3300052: numberplate
+    3300054: numberplate1
+    3300056: pasted__floor
+    3300058: pasted__interior11
+    3300060: pasted__polySurface1076
+    3300062: pasted__polySurface1077
+    3300064: pasted__polySurface65
+    3300066: pasted__polySurface66
+    3300068: pasted__polySurface66 1
+    3300070: pasted__polySurface67
+    3300072: pasted__polySurface67 1
+    3300074: pCube11
+    3300076: pCube12
+    3300078: pCube13
+    3300080: pCube3
+    3300082: pCube4
+    3300084: pCube7
+    3300086: pCube8
+    3300088: pCube9
+    3300090: pCylinder2
+    3300092: pCylinder3
+    3300094: polySurface1
+    3300096: polySurface2
+    3300098: polySurface3
+    3300100: Rear_Left
+    3300102: Rear_Right
+    3300104: Right_Door 1
+    3300106: Right_Mirror1
+    3300108: Sea1
+    3300110: Sea2
+    3300112: Sea3
+    3300114: Sea4
+    3300116: start_Button
+    3300118: Sterring_New
+    3300120: Tail_Light
+    4300000: pCube13
+    4300002: interior10
+    4300004: Lhd_Interior___pCube52
+    4300006: Gare
+    4300008: HandBrack
+    4300010: pasted__polySurface67
+    4300012: pasted__polySurface66
+    4300014: pasted__polySurface65
+    4300016: interior5
+    4300018: _pCylinder10
+    4300020: __pCube52
+    4300022: _pCube49
+    4300024: pasted__polySurface67
+    4300026: pasted__polySurface66
+    4300028: interior9
+    4300030: Sterring_New
+    4300032: polySurface2
+    4300034: polySurface3
+    4300036: start_Button
+    4300038: Horn
+    4300040: Hood2
+    4300042: Engine
+    4300044: Dicy
+    4300046: Mesh79
+    4300048: pasted__polySurface1077
+    4300050: pasted__polySurface1076
+    4300052: Front_Left
+    4300054: Front_Right
+    4300056: Rear_Right
+    4300058: Rear_Left
+    4300060: Left_Mirror1
+    4300062: Left_Door
+    4300064: Right_Mirror1
+    4300066: Right_Door
+    4300068: center_Mirror
+    4300070: polySurface1
+    4300072: pCube7
+    4300074: pCube8
+    4300076: pCylinder2
+    4300078: pCylinder3
+    4300080: Sea1
+    4300082: pCube4
+    4300084: pCube9
+    4300086: pCube3
+    4300088: Sea4
+    4300090: pCube11
+    4300092: Sea3
+    4300094: Sea2
+    4300096: pCube12
+    4300098: interior6
+    4300100: interior5
+    4300102: Back_windshild
+    4300104: Front_Windshild
+    4300106: Tail_Light
+    4300108: Head_Light
+    4300110: numberplate
+    4300112: numberplate1
+    4300114: Fuel_Cap
+    4300116: Body
+    4300118: pasted__floor
+    4300120: pasted__interior11
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
